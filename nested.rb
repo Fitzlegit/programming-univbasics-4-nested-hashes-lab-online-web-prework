@@ -81,6 +81,7 @@ def adding_matz
           :known_for => "Unix",
           :languages => ["C"]
         }
+        adding_matz[]
      }
 
     adding_matz = Hash.new 
