@@ -85,7 +85,7 @@ def adding_matz
      }
 
     adding_matz = Hash.new 
-    adding_matz[:yukihiro_matsumoto] = nil
+    adding_matz[:yukihiro_matsumoto] = "hello"
     
     
 end
