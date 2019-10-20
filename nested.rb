@@ -87,6 +87,7 @@ def adding_matz
     adding_matz = Hash.new 
     
     
+    
 end
 
 def changing_alan
