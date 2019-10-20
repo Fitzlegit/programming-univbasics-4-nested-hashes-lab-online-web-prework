@@ -81,11 +81,11 @@ def adding_matz
           :known_for => "Unix",
           :languages => ["C"]
         }
-        adding_matz[]
+        
      }
 
     adding_matz = Hash.new 
-    adding_matz[yukihiro_matsumoto]
+    adding_matz[yukihiro_matsumoto] = ""
     
 end
 
