@@ -84,7 +84,7 @@ def adding_matz
         
      }
 
-    adding_matz = {:yukihiro_matsumoto} 
+    adding_matz = {yukihiro_matsumoto:{}} 
     
     
 end
